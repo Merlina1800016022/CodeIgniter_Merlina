@@ -12,8 +12,7 @@
   </head>
   <body>
     <div class="container">
-    <h1>Hello, world!</h1>
-    <p>Form Login</p>
+    <h1>Form Login</h1>
       <form method="post" action="<?= site_url('personal/Login')?>">
         
   <div class="form-group">
